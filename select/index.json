@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりぼっちの世界",
+  "base_artist": "miolly",
+  "createdAt": "2025-12-08T08:22:11.864094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりぼっちの世界",
+      "artist": "miolly",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりぼっちの世界_miolly.txt"
+    }
+  ]
+}
